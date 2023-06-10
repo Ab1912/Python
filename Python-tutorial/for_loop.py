@@ -4,7 +4,7 @@ for i in range(21):
     print(i)
 print('\nEven numbers :')    
 for i in range(0,21,2):
-    print(i,'\n')    
+    print(i,'\t')    
 
 for i in range(3):
     a = int(input('Enter 1st number :'))
