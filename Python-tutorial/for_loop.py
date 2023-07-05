@@ -8,5 +8,5 @@ for i in range(0,21,2):
 
 for i in range(3):
     a = int(input('Enter 1st number :'))
-    b = int(input('Enter 2nd Number :'))
-    print('Total :',a+b,)
+    b = int(input('Enter 2nd number :'))
+    print('Total :',a+b)
