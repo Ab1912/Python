@@ -2,5 +2,6 @@
     "editor.fontFamily": "fira code",
     "editor.fontLigatures": false,
     "editor.fontVariations": false,
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true
 }
